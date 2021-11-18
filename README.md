@@ -1,9 +1,9 @@
 <h3 align="center">
-  💙 Welcome to Rebeca Belin's profile! 💙
+  💙 Seja muito bem vindo ao meu perfil! 💙
 </h3>
 
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%230075FF&size=28&center=true&vCenter=true&lines=Programming+student;UI%2FUX+Designer"(https://git.io/typing-svg)>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%230075FF&size=28&center=true&vCenter=true&lines=Estudante+de+programação;UI%2FUX+Designer"(https://git.io/typing-svg)>
  </p>
 
 <!-- Social icons section -->
@@ -25,17 +25,17 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=becabelin&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0075FF&dates=45BBFF&sideNums=45BBFF&currStreakLabel=45BBFF&stroke=0075FF&ring=0075FF&fire=45BBFF&currStreakNum=45BBFF"(https://git.io/streak-stats)>
  </p>
 
-My name is Rebeca and I'll tell you a little bit about me!
+Meu nome é Rebeca e vou falar um pouco sobre mim!
 
-👩‍💻 I'm a **UI/UX Designer** focused on mobile interfaces <br>
-🎨 I like to feel like an *artist*: I paint, play the flute, write, photograph... <br>
-🦄 Fun-fact: I'm the **biggest animation fan**, especially My Little Pony!
+👩‍💻 Sou uma **UI / UX Designer**! <br>
+🎨 Gosto de me sentir uma *artista*: pinto, toco flauta, escrevo, fotografo... <br>
+🦄 Curiosidade: sou a **maior fã de animação**, especialmente My Little Pony!
 
-#### I'm learning
+#### Estou aprendendo
 
 <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=0075FF" alt="GIT" title="GIT"> <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=0075FF" alt="C#" title="C#"> <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=0075FF" alt="JavaScript" title="JavaScript"> <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0075FF" alt="HTML5" title="HTML5">
 
-#### I use it in my daily life
+#### Uso no meu dia a dia
 
 <a href="" target="_blank" alt="Adobe XD" title="Adobe XD">
 <img align="center" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white&color=0075FF">
@@ -50,7 +50,7 @@ My name is Rebeca and I'll tell you a little bit about me!
 </a>
 
 #
-#### Created handouts
+#### Apostilas criadas
 <p align="left">
   <a href="https://github.com/becabelin/apostila-git-github"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=apostila-git-github&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/becabelin/apostila-de-http"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=apostila-de-http&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
