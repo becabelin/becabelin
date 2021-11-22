@@ -25,7 +25,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=becabelin&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0075FF&dates=45BBFF&sideNums=45BBFF&currStreakLabel=45BBFF&stroke=0075FF&ring=0075FF&fire=45BBFF&currStreakNum=45BBFF"(https://git.io/streak-stats)>
  </p>
 
-Meu nome é Rebeca e vou falar um pouco sobre mim!
+🙋🏻‍♀️ Meu nome é Rebeca e eu:
 
 👩‍💻 Sou uma **UI / UX Designer**! <br>
 🎨 Gosto de me sentir uma *artista*: pinto, toco flauta, escrevo, fotografo... <br>
@@ -48,6 +48,7 @@ Meu nome é Rebeca e vou falar um pouco sobre mim!
 </a> <a href="" target="_blank" alt="VS Code" title="VS Code">
 <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0075FF">
 </a>
+
 
 #
 #### Apostilas criadas
