@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%230075FF&size=28&center=true&vCenter=true&lines=Estudante+de+programação;UI%2FUX+Designer"(https://git.io/typing-svg)>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%230075FF&size=28&center=true&vCenter=true&lines=Front-end+Developer;UI%2FUX+Designer"(https://git.io/typing-svg)>
  </p>
 
 <!-- Social icons section -->
