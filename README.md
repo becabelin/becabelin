@@ -25,12 +25,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=becabelin&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideLabels=0075FF&dates=45BBFF&sideNums=45BBFF&currStreakLabel=45BBFF&stroke=0075FF&ring=0075FF&fire=45BBFF&currStreakNum=45BBFF"(https://git.io/streak-stats)>
  </p>
 
-🙋🏻‍♀️ Meu nome é Rebeca e eu:
-
-👩‍💻 Sou uma **UI / UX Designer**! <br>
-🎨 Gosto de me sentir uma *artista*: pinto, toco flauta, escrevo, fotografo... <br>
-🦄 Curiosidade: sou a **maior fã de animação**, especialmente My Little Pony!
-
 #### Estou aprendendo
 
 <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=0075FF" alt="GIT" title="GIT"> <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=0075FF" alt="C#" title="C#"> <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=0075FF" alt="JavaScript" title="JavaScript"> <img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0075FF" alt="HTML" title="HTML"> <img align="center" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=0075FF" alt="CSS" title="CSS"> 
