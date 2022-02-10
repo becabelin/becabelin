@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.behance.net/becabelin"><img width="45px" alt="Behance" title="Behance" src="https://user-images.githubusercontent.com/69727594/139465109-2517633e-ebc5-4a9c-8740-cd82b9e242cd.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/beipis/"><img width="45px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/69727594/139465015-61be3f2c-cd0a-4141-a0cd-162c71043c1e.png"/></a>
+  <a href="https://www.instagram.com/meninadeux"><img width="45px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/69727594/139465015-61be3f2c-cd0a-4141-a0cd-162c71043c1e.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:becabelin@gmail.com"><img width="45px" alt="E-mail" title="E-mail" src="https://user-images.githubusercontent.com/69727594/139464927-9d110e31-818b-427c-9b9c-687c56fd6861.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -27,7 +27,7 @@
 
 #### Estou aprendendo
 
-<img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=0075FF" alt="GIT" title="GIT"> <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=0075FF" alt="C#" title="C#"> <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=0075FF" alt="JavaScript" title="JavaScript"> <img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0075FF" alt="HTML" title="HTML"> <img align="center" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=0075FF" alt="CSS" title="CSS"> 
+<img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=0075FF" alt="GIT" title="GIT"> <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=0075FF" alt="C#" title="C#"> <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=0075FF" alt="JavaScript" title="JavaScript"> <img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0075FF" alt="HTML" title="HTML"> <img align="center" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=0075FF" alt="CSS" title="CSS"> <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&color=0075FF" alt="Python" title="Python">
 
 #### Uso no meu dia a dia
 
