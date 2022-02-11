@@ -33,7 +33,6 @@ Meu nome é Rebeca e sou uma UX/UI Designer e estudante de programação full-st
 <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&color=0075FF" alt="Python" title="Python">
 </p>
 
-#
 #### Uso no meu dia a dia
 
 <a href="" target="_blank" alt="Adobe XD" title="Adobe XD">
@@ -49,13 +48,12 @@ Meu nome é Rebeca e sou uma UX/UI Designer e estudante de programação full-st
 #
 #### Cursos realizados
 <p align="left">
-  <a href="https://github.com/becabelin/construdelas-gama"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=construdelas-gama&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/becabelin/construdelas-gama"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=construdelas-gama&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>&#8287;
   <a href="https://github.com/becabelin/tech-ta-on"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=tech-ta-on&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
-#
 #### Apostilas criadas
 <p align="left">
-  <a href="https://github.com/becabelin/apostila-git-github"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=apostila-git-github&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/becabelin/apostila-git-github"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=apostila-git-github&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>&#8287;
   <a href="https://github.com/becabelin/apostila-de-http"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=apostila-de-http&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
