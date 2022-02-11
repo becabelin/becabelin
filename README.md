@@ -2,9 +2,9 @@
   💙 Seja muito bem vindo ao meu perfil! 💙
 </h3>
 
-<p align="center"> 
+<!-- <p align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?color=%230075FF&size=28&center=true&vCenter=true&lines=Estudante+de+programação;UX%2FUI+Designer"(https://git.io/typing-svg)>
- </p>
+ </p> -->
 
 <!-- Social icons section -->
 <p align="center">
