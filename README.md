@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rebecalvesousa" alt="LinkedIn"><img width="45px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/69727594/139465237-0a5c3189-ab93-4a12-a2d1-9dc958db0e6d.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;
   <a href="https://www.behance.net/becabelin"><img width="45px" alt="Behance" title="Behance" src="https://user-images.githubusercontent.com/69727594/139465109-2517633e-ebc5-4a9c-8740-cd82b9e242cd.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/meninadeux"><img width="45px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/69727594/139465015-61be3f2c-cd0a-4141-a0cd-162c71043c1e.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;
   <a href="mailto:becabelin@gmail.com"><img width="45px" alt="E-mail" title="E-mail" src="https://user-images.githubusercontent.com/69727594/139464927-9d110e31-818b-427c-9b9c-687c56fd6861.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/channel/UCfWSodyesItLGaiwbXd3-_Q"><img width="45px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/69727594/139464484-01c68745-ac7c-44a5-b0bf-3124246f862a.png"/></a>
 </p>
 
