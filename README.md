@@ -3,7 +3,7 @@
  </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rebecalvesousa" alt="LinkedIn"><img width="45px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/69727594/139465237-0a5c3189-ab93-4a12-a2d1-9dc958db0e6d.png"/></a>
+  <a href="https://www.linkedin.com/in/becabelin" alt="LinkedIn"><img width="45px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/69727594/139465237-0a5c3189-ab93-4a12-a2d1-9dc958db0e6d.png"/></a>
   &#8287;&#8287;&#8287;
   <a href="https://www.behance.net/becabelin"><img width="45px" alt="Behance" title="Behance" src="https://user-images.githubusercontent.com/69727594/139465109-2517633e-ebc5-4a9c-8740-cd82b9e242cd.png"></a>
   &#8287;&#8287;&#8287;
