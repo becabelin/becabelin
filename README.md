@@ -19,7 +19,7 @@
  </p>-->
 
 #
-<img align="right" src="https://user-images.githubusercontent.com/69727594/153715382-2a717ded-a9d8-499c-974a-de69949940aa.gif" width="260">
+<img align="right" src="https://user-images.githubusercontent.com/69727594/153715382-2a717ded-a9d8-499c-974a-de69949940aa.gif" width="240">
 
 #### 👧🏻 Quem sou eu
 Meu nome é Rebeca e sou uma UX/UI Designer e estudante de programação full-stack.<br>
