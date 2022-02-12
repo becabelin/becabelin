@@ -19,31 +19,28 @@
  </p>-->
 
 #
-#### Quem sou eu
-Meu nome é Rebeca e sou uma UX/UI Designer e estudante de programação full-stack. Sou apaixonada por tecnologia e quero usá-la para melhorar a vida das pessoas!
+<img align="right" src="https://user-images.githubusercontent.com/69727594/153715382-2a717ded-a9d8-499c-974a-de69949940aa.gif" width="290">
 
-#
-#### Estou aprendendo
+#### 👧🏻 Quem sou eu
+Meu nome é Rebeca e sou uma UX/UI Designer e estudante de programação full-stack.<br>
+Sou apaixonada por tecnologia e quero usá-la para melhorar a vida das pessoas!
+
+#### 🤓 Estou aprendendo
 <p align="left">
-<img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=0075FF" alt="GIT" title="GIT">
 <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=0075FF" alt="C#" title="C#">
-<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=0075FF" alt="JavaScript" title="JavaScript">
-<img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0075FF" alt="HTML" title="HTML">
 <img align="center" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=0075FF" alt="CSS" title="CSS">
+<img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=0075FF" alt="GIT" title="GIT">
+<img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0075FF" alt="HTML" title="HTML">
+<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=0075FF" alt="JavaScript" title="JavaScript">
 <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&color=0075FF" alt="Python" title="Python">
 </p>
 
-#### Uso no meu dia a dia
+#### 🖥️ Uso no meu dia a dia
 
-<a href="" target="_blank" alt="Adobe XD" title="Adobe XD">
-<img align="center" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white&color=0075FF">
-</a> <a href="" target="_blank" alt="Figma" title="Figma">
-<img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=0075FF">
-</a> <a href="" target="_blank" alt="Visual Studio" title="Visual Studio">
-<img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&color=0075FF">
-</a> <a href="" target="_blank" alt="VS Code" title="VS Code">
-<img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0075FF">
-</a>
+<a href="" target="_blank" alt="Adobe XD" title="Adobe XD"><img align="center" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white&color=0075FF"></a>
+<a href="" target="_blank" alt="Figma" title="Figma"><img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=0075FF"></a>
+<a href="" target="_blank" alt="Visual Studio" title="Visual Studio"><img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&color=0075FF"></a>
+<a href="" target="_blank" alt="VS Code" title="VS Code"><img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0075FF"></a>
 
 #
 #### Cursos realizados
