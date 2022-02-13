@@ -24,6 +24,7 @@
 #### 👧🏻 Quem sou eu
 Meu nome é Rebeca e sou uma UX/UI Designer e estudante de programação full-stack.<br>
 Sou apaixonada por tecnologia e quero usá-la para melhorar a vida das pessoas!
+##### [Clique aqui para ver o meu currículo completo! 😊](https://github.com/becabelin/curriculo)
 
 #### 🤓 Estou aprendendo
 <p align="left">
