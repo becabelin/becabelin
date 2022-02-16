@@ -48,6 +48,7 @@ Sou apaixonada por tecnologia e quero usá-la para melhorar a vida das pessoas!
 <p align="left">
   <a href="https://github.com/becabelin/construdelas-gama"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=construdelas-gama&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>&#8287;
   <a href="https://github.com/becabelin/tech-ta-on"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=tech-ta-on&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/becabelin/bootcamp-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=bootcamp-python&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 #### Apostilas criadas
