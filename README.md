@@ -22,7 +22,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/69727594/153715382-2a717ded-a9d8-499c-974a-de69949940aa.gif" width="240">
 
 #### 👧🏻 Quem sou eu
-Meu nome é Rebeca e sou uma UX/UI Designer e estudante de programação full-stack.<br>
+Meu nome é Rebeca e sou uma UX/UI Designer e estudante de programação back-end.<br>
 Sou apaixonada por tecnologia e quero usá-la para melhorar a vida das pessoas!
 ##### [Clique aqui para ver o meu currículo completo! 😊](https://github.com/becabelin/curriculo)
 
