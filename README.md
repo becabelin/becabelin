@@ -44,6 +44,11 @@ Sou apaixonada por tecnologia e quero usá-la para melhorar a vida das pessoas!
 <a href="" target="_blank" alt="VS Code" title="VS Code"><img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0075FF"></a>
 
 #
+#### 🤓 Faculdades
+<p align="left">
+   <a href="https://github.com/becabelin/sip-fiap"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=sip-fiap&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+</p>
+
 #### 👩🏻‍💻 Cursos realizados
 <p align="left">
    <a href="https://github.com/becabelin/bootcamp-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=bootcamp-python&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
