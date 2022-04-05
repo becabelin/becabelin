@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%230075FF&size=28&center=true&vCenter=true&lines=Estudante+de+programação;UX%2FUI+Designer"(https://git.io/typing-svg)>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%230075FF&size=28&center=true&vCenter=true&lines=Full-Stack+Developer;UX%2FUI+Designer"(https://git.io/typing-svg)>
  </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/69727594/153715382-2a717ded-a9d8-499c-974a-de69949940aa.gif" width="240">
 
 #### 👧🏻 Quem sou eu
-Meu nome é Rebeca e sou uma UX/UI Designer e estudante de programação back-end. Atualmente estou me graduando em Sistemas para Internet na FIAP.<br>
+Meu nome é Rebeca e sou uma UX/UI Designer e estudante de programação full-stack. Atualmente estou me graduando em Sistemas para Internet na FIAP.<br>
 Sou apaixonada por tecnologia e quero usá-la para melhorar a vida das pessoas!
 ##### [Clique aqui para ver o meu currículo completo! 😊](https://github.com/becabelin/curriculo)
 
