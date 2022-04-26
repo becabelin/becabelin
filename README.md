@@ -28,12 +28,15 @@ Sou apaixonada por tecnologia e quero usá-la para melhorar a vida das pessoas!
 
 #### 🤓 Estou aprendendo
 <p align="left">
+<img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&color=0075FF" alt="Bootstrap" title="Bootstrap">
 <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=0075FF" alt="C#" title="C#">
 <img align="center" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=0075FF" alt="CSS" title="CSS">
 <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=0075FF" alt="GIT" title="GIT">
 <img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0075FF" alt="HTML" title="HTML">
+<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=0075FF" alt="Java" title="Java">
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=0075FF" alt="JavaScript" title="JavaScript">
 <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&color=0075FF" alt="Python" title="Python">
+<img align="center" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=white&color=0075FF" alt="Spring Boot" title="Spring Boot">
 </p>
 
 #### 🖥️ Uso no meu dia a dia
@@ -42,6 +45,9 @@ Sou apaixonada por tecnologia e quero usá-la para melhorar a vida das pessoas!
 <a href="" target="_blank" alt="Figma" title="Figma"><img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=0075FF"></a>
 <a href="" target="_blank" alt="Visual Studio" title="Visual Studio"><img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&color=0075FF"></a>
 <a href="" target="_blank" alt="VS Code" title="VS Code"><img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0075FF"></a>
+<a href="" target="_blank" alt="IntelliJ IDEA" title="IntelliJ IDEA"><img align="center" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&color=0075FF"></a>
+<a href="" target="_blank" alt="MongoDB" title="MongoDB"><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=0075FF"></a>
+<a href="" target="_blank" alt="Postman" title="Postman"><img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&color=0075FF"></a>
 
 #
 #### 🤓 Faculdades
@@ -51,7 +57,6 @@ Sou apaixonada por tecnologia e quero usá-la para melhorar a vida das pessoas!
 
 #### 👩🏻‍💻 Cursos realizados
 <p align="left">
-   <a href="https://github.com/becabelin/construdelas-wmc"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=construdelas-wmc&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/becabelin/bootcamp-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=bootcamp-python&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/becabelin/tech-ta-on"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=tech-ta-on&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/becabelin/construdelas-gama"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=construdelas-gama&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>&#8287;
