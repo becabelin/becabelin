@@ -46,11 +46,6 @@ Sou dona do projeto Menina de UX, que é uma iniciativa feita para ajudar menina
 <!-- <a href="" target="_blank" alt="MongoDB" title="MongoDB"><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=0F5F8C"></a> -->
 
 #
-#### 🤓 Faculdade
-<p align="left">
-   <a href="https://github.com/becabelin/sip-fiap"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=sip-fiap&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-</p>
-
 #### 👩🏻‍💻 Cursos realizados
 <p align="left">
     <a href="https://github.com/becabelin/bootcamp-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=bootcamp-python&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
