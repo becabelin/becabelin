@@ -7,7 +7,7 @@
   &#8287;&#8287;&#8287;
   <a href="https://www.behance.net/becabelin"><img width="60px" alt="Behance" title="Behance" src="https://user-images.githubusercontent.com/69727594/169367939-ee9fc31e-81d1-44ff-ba4a-d54619c014e7.png"></a>
   &#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/meninadeux"><img width="60px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/69727594/169368045-174edc56-78b3-4b7a-be4d-2049f332c5bc.png"/></a>
+  <a href="https://www.instagram.com/becabelin"><img width="60px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/69727594/169368045-174edc56-78b3-4b7a-be4d-2049f332c5bc.png"/></a>
   &#8287;&#8287;&#8287;
   <a href="mailto:becabelin@gmail.com"><img width="60px" alt="E-mail" title="E-mail" src="https://user-images.githubusercontent.com/69727594/169368168-80f982c1-b18d-40b3-92fd-0a5a26705505.png"/></a>
   &#8287;&#8287;&#8287;
