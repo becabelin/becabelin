@@ -17,7 +17,7 @@
 #
 
 #### 👧🏻 Quem sou eu
-Meu nome é Rebeca, sou uma UX/UI Designer e Desenvolvedora Full-Stack. Atualmente estou me graduando em Sistemas para Internet na FIAP. Sou apaixonada por tecnologia e educação e quero usar os meus conhecimentos para melhorar a vida das pessoas!
+Meu nome é Rebeca, sou uma UX/UI Designer e Desenvolvedora. Atualmente estou me graduando em Sistemas para Internet na FIAP. Sou apaixonada por tecnologia e educação e quero usar os meus conhecimentos para melhorar a vida das pessoas!
 ##### [Clique aqui para ver o meu currículo completo! 😊](https://github.com/becabelin/curriculo)
 
 Sou dona do projeto Menina de UX, que é uma iniciativa feita para ajudar meninas (e meninos) que queiram começar a sua carreira na área de UX/UI Design! Estou presente no [LinkedIn](https://www.linkedin.com/company/meninadeux), [Instagram](https://www.instagram.com/meninadeux/) e no [site](https://meninadeux.com)!
