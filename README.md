@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=CDE1FF&center=true&vCenter=true&lines=UI+Designer;Full-Stack+Developer"(https://git.io/typing-svg>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=CDE1FF&center=true&vCenter=true&lines=UI+Designer;Developer"(https://git.io/typing-svg>
  </p>
 
 <p align="center">
