@@ -20,7 +20,7 @@
 My name is Rebeca, I'm a UI Designer and Developer. I am currently graduating in Internet Systems at FIAP. I'm passionate about technology and education and I want to use my knowledge to improve people's lives!
 ##### [Click here to see my full resume! 😊](https://github.com/becabelin/curriculo)
 
-I own the UX Girl project, which is an initiative designed to help girls (and boys) who want to start their careers in the UX/UI Design field! I am present at [LinkedIn](https://www.linkedin.com/company/meninadeux), [Instagram](https://www.instagram.com/meninadeux/) and in the [site](https://meninadeux.com)!
+I own the Menina de UX project, which is an initiative designed to help girls who want to start their careers in the UX/UI Design field! I am present at [LinkedIn](https://www.linkedin.com/company/meninadeux), [Instagram](https://www.instagram.com/meninadeux/) and in the [site](https://meninadeux.com)!
 
 #### 🤓 I'm learning
 <p align="left">
