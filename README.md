@@ -3,11 +3,7 @@
  </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/becabelin" alt="LinkedIn"><img width="60px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/69727594/169367244-2f63a8bc-def6-4969-b358-73ef373b06e9.png"/></a>
-  &#8287;&#8287;&#8287;
   <a href="https://www.behance.net/becabelin"><img width="60px" alt="Behance" title="Behance" src="https://user-images.githubusercontent.com/69727594/169367939-ee9fc31e-81d1-44ff-ba4a-d54619c014e7.png"></a>
-  &#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/becabelin"><img width="60px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/69727594/169368045-174edc56-78b3-4b7a-be4d-2049f332c5bc.png"/></a>
   &#8287;&#8287;&#8287;
   <a href="mailto:becabelin@gmail.com"><img width="60px" alt="E-mail" title="E-mail" src="https://user-images.githubusercontent.com/69727594/169368168-80f982c1-b18d-40b3-92fd-0a5a26705505.png"/></a>
   &#8287;&#8287;&#8287;
@@ -18,7 +14,6 @@
 
 #### 👧🏻 About me
 My name is Rebeca, I'm a UI Designer and Developer. I am currently graduating in Internet Systems at FIAP. I'm passionate about technology and education and I want to use my knowledge to improve people's lives!
-##### [Click here to see my full resume! 😊](https://github.com/becabelin/curriculo)
 
 I own the Menina de UX project, which is an initiative designed to help girls who want to start their careers in the UX/UI Design field! I am present at [LinkedIn](https://www.linkedin.com/company/meninadeux), [Instagram](https://www.instagram.com/meninadeux/) and in the [site](https://meninadeux.com)!
 
