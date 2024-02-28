@@ -1,4 +1,4 @@
-
+<img align="right" src="https://github.com/becabelin/becabelin/assets/69727594/d46c9123-c05c-4f68-b00b-575f65da318e" width="300px">
 
 # Hi, how are you?
 I am a `Back-End Developer` who works with `Java, Python, and C#`. I am passionate about developing solutions that, together with data analysis, cybersecurity, and cloud, transform people's lives.
@@ -60,11 +60,6 @@ I am a `Back-End Developer` who works with `Java, Python, and C#`. I am passiona
     <img align="center" src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="SNYK" title="SNYK">
 </p>
 
-### Artificial Intelligence
-<p align="left">
-    <img align="center" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT">
-</p>
-
 ### Analytics
 <p align="left">
     <img align="center" src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" alt="Lighthouse" title="Lighthouse">
@@ -74,7 +69,9 @@ I am a `Back-End Developer` who works with `Java, Python, and C#`. I am passiona
 
 <hr>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=becabelin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=151B22&card_width=400)
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=becabelin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=151B22)
+<a href="https://github.com/becabelin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=becabelin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=151B22&card_width=400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becabelin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=151B22&card_width=400"/>
+</a>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
