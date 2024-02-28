@@ -3,6 +3,8 @@
 # Hi, how are you?
 I am a `Back-End Developer` who works with `Java, Python, and C#`. I am passionate about developing solutions that, together with data analysis, cybersecurity, and cloud, transform people's lives.
 
+![becabelin](https://komarev.com/ghpvc/?username=becabelin)
+
 #### Social Media
 <a href="https://www.instagram.com/becabelin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://behance.net/becabelin/"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/></a>
