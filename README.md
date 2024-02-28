@@ -3,6 +3,8 @@
 # Hi, how are you?
 I am a `Back-End Developer` who works with `Java, Python, and C#`. I am passionate about developing solutions that, together with data analysis, cybersecurity, and cloud, transform people's lives.
 
+I have a degree in `Internet Systems` from FIAP and I am studying `Software Engineering` at Descomplica.
+
 ![becabelin](https://komarev.com/ghpvc/?username=becabelin&style=for-the-badge&label=VIEWS&abbreviated=true&color=0F428D)
 
 #### Social Media
