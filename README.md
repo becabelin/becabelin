@@ -7,7 +7,7 @@ I have a degree in `Internet Systems` from FIAP and I am studying `Software Engi
 
 ![becabelin](https://komarev.com/ghpvc/?username=becabelin&style=for-the-badge&label=VIEWS&abbreviated=true&color=0F428D)
 
-#### Social Media
+### Social Media
 <a href="https://www.instagram.com/becabelin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://behance.net/becabelin/"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/becabelin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -38,9 +38,9 @@ I have a degree in `Internet Systems` from FIAP and I am studying `Software Engi
 
 ### Cloud
 <p align="left">
-    <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" title="Google Cloud">
     <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS" title="Amazon AWS">
     <img align="center" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" title="Azure DevOps">
+    <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" title="Google Cloud">
 </p>
 
 ### Databases
