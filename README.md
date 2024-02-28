@@ -1,52 +1,80 @@
-<p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=CDE1FF&center=true&vCenter=true&lines=UI+Designer;Developer"(https://git.io/typing-svg>
- </p>
 
-<p align="center">
-  <a href="https://www.behance.net/becabelin"><img width="60px" alt="Behance" title="Behance" src="https://user-images.githubusercontent.com/69727594/169367939-ee9fc31e-81d1-44ff-ba4a-d54619c014e7.png"></a>
-  &#8287;&#8287;&#8287;
-  <a href="mailto:becabelin@gmail.com"><img width="60px" alt="E-mail" title="E-mail" src="https://user-images.githubusercontent.com/69727594/169368168-80f982c1-b18d-40b3-92fd-0a5a26705505.png"/></a>
-  &#8287;&#8287;&#8287;
-  <a href="figma.com/@becabelin"><img width="60px" alt="Figma" title="Figma" src="https://user-images.githubusercontent.com/69727594/169368449-161d9a5c-0e46-46bc-ac67-2c025b3af80a.png"/></a>
-</p>
 
-#
+# Hi, how are you?
+I am a `Back-End Developer` who works with `Java, Python, and C#`. I am passionate about developing solutions that, together with data analysis, cybersecurity, and cloud, transform people's lives.
 
-#### 👧🏻 About me
-My name is Rebeca, I'm a UI Designer and Developer. I am currently graduating in Internet Systems at FIAP. I'm passionate about technology and education and I want to use my knowledge to improve people's lives!
+#### Social Media
+<a href="https://www.instagram.com/becabelin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://behance.net/becabelin/"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/becabelin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://becabelin.com/"><img height="30px" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~011b5f1709907fcc93"><img height="30px" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
 
-I own the Menina de UX project, which is an initiative designed to help girls who want to start their careers in the UX/UI Design field! I am present at [LinkedIn](https://www.linkedin.com/company/meninadeux), [Instagram](https://www.instagram.com/meninadeux/) and in the [site](https://meninadeux.com)!
-
-#### 🤓 I'm learning
+### Languages
 <p align="left">
-<img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&color=0F5F8C" alt="Bootstrap" title="Bootstrap">
-<!-- <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=0F5F8C" alt="C#" title="C#"> -->
-<img align="center" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=0F5F8C" alt="CSS" title="CSS">
-<img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=0F5F8C" alt="GIT" title="GIT">
-<img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0F5F8C" alt="HTML" title="HTML">
-<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=0F5F8C" alt="Java" title="Java">
-<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=0F5F8C" alt="JavaScript" title="JavaScript">
-<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&color=0F5F8C" alt="Python" title="Python">
-<img align="center" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=white&color=0F5F8C" alt="Spring Boot" title="Spring Boot">
+    <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" title="C#">
+    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
+    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5">
+    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java">
+    <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript">
+    <img align="center" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON" title="JSON">
+    <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin">
+    <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" title="Python">
 </p>
 
-#### 🖥️ I use it in my day to day
-
-<a href="" target="_blank" alt="Figma" title="Figma"><img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=0F5F8C"></a>
-<a href="" target="_blank" alt="VS Code" title="VS Code"><img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0F5F8C"></a>
-<a href="" target="_blank" alt="IntelliJ IDEA" title="IntelliJ IDEA"><img align="center" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&color=0F5F8C"></a>
-<a href="" target="_blank" alt="Postman" title="Postman"><img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&color=0F5F8C"></a>
-
-#
-#### 👩🏻‍💻 Completed courses
+### Frameworks
 <p align="left">
-    <a href="https://github.com/becabelin/bootcamp-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=bootcamp-python&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/becabelin/tech-ta-on"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=tech-ta-on&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/becabelin/construdelas-gama"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=construdelas-gama&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>&#8287;
+    <img align="center" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" title=".NET">
+    <img align="center" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" title="Apache Kafka">
+    <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap">
+    <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker">
+    <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" title="Postman">
+    <img align="center" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" title="Spring Boot">
 </p>
 
-#### 📔 Created handouts
+### Cloud
 <p align="left">
-  <a href="https://github.com/becabelin/apostila-de-http"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=apostila-de-http&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/becabelin/apostila-git-github"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=apostila-git-github&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>&#8287;
+    <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" title="Google Cloud">
+    <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS" title="Amazon AWS">
+    <img align="center" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" title="Azure DevOps">
 </p>
+
+### Databases
+<p align="left">
+    <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" title="Microsoft SQL Server">
+    <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB">
+    <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL">
+    <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL">
+    <img align="center" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" title="RabbitMQ">
+</p>
+
+### IDE
+<p align="left">
+    <img align="center" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ     IDEA">
+    <img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" title="PyCharm">
+    <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" title="VS Code">
+</p>
+
+### Security
+<p align="left">
+    <img align="center" src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="SNYK" title="SNYK">
+</p>
+
+### Artificial Intelligence
+<p align="left">
+    <img align="center" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" title="ChatGPT">
+</p>
+
+### Analytics
+<p align="left">
+    <img align="center" src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" alt="Lighthouse" title="Lighthouse">
+    <img align="center" src="https://img.shields.io/badge/New Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic" title="New Relic">
+    <img align="center" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics" title="Google Analytics">
+</p>
+
+<hr>
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=becabelin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=151B22&card_width=400)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=becabelin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=151B22)
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
