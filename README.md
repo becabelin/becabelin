@@ -13,6 +13,8 @@ I have a degree in `Internet Systems` from FIAP and I am studying `Software Engi
 <a href="https://www.linkedin.com/in/becabelin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://becabelin.com/"><img height="30px" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://www.upwork.com/freelancers/~011b5f1709907fcc93"><img height="30px" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
+<a href="https://g.dev/becabelin"><img height="30px" src="https://img.shields.io/badge/Google_developer-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/39cfa74d-bea8-4798-833f-a82974cd49be"><img height="30px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
 
 ### Languages
 <p align="left">
@@ -66,9 +68,9 @@ I have a degree in `Internet Systems` from FIAP and I am studying `Software Engi
 
 ### Analytics
 <p align="left">
+    <img align="center" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics" title="Google Analytics">
     <img align="center" src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" alt="Lighthouse" title="Lighthouse">
     <img align="center" src="https://img.shields.io/badge/New Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic" title="New Relic">
-    <img align="center" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics" title="Google Analytics">
 </p>
 
 <hr>
