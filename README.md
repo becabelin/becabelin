@@ -15,6 +15,7 @@ I have a degree in `Internet Systems` from FIAP and I am studying `Software Engi
 <a href="https://www.upwork.com/freelancers/~011b5f1709907fcc93"><img height="30px" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
 <a href="https://g.dev/becabelin"><img height="30px" src="https://img.shields.io/badge/Google_developer-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/39cfa74d-bea8-4798-833f-a82974cd49be"><img height="30px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/pt-br/users/rebecabelin/"><img height="30px" src="https://img.shields.io/badge/Microsoft-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/></a>
 
 ### Languages
 <p align="left">
