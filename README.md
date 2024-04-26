@@ -1,78 +1,30 @@
-<img align="right" src="https://github.com/becabelin/becabelin/assets/69727594/d46c9123-c05c-4f68-b00b-575f65da318e" width="300px">
+![](https://github.com/becabelin/becabelin/assets/69727594/1499228a-5dc9-4e24-a82e-84afa93ebba9)
 
 # Hi, how are you?
-I am a `Back-End Developer` who works with `Java, Python, and C#`. I am passionate about developing solutions that, together with data analysis, cybersecurity, and cloud, transform people's lives.
 
-I have a degree in `Internet Systems` from FIAP and I am studying `Software Engineering` at Descomplica.
+<img align="right" src="https://github.com/becabelin/becabelin/assets/69727594/d46c9123-c05c-4f68-b00b-575f65da318e" width="300px">
+
+I am a Software Developer Engineer who works with Java, Python, and C#. I am passionate about developing solutions that, together with data analysis, cybersecurity, and cloud, transform people's lives. I have a degree in Internet Systems and am currently studying Systems Analysis and Development and a Postgraduate Degree in Software Engineering.
 
 ![becabelin](https://komarev.com/ghpvc/?username=becabelin&style=for-the-badge&label=VIEWS&abbreviated=true&color=0F428D)
 
 ### Social Media
-<a href="https://www.instagram.com/becabelin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://behance.net/becabelin/"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/becabelin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://becabelin.com/"><img height="30px" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="https://www.upwork.com/freelancers/~011b5f1709907fcc93"><img height="30px" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
 <a href="https://g.dev/becabelin"><img height="30px" src="https://img.shields.io/badge/Google_developer-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/39cfa74d-bea8-4798-833f-a82974cd49be"><img height="30px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/pt-br/users/rebecabelin/"><img height="30px" src="https://img.shields.io/badge/Microsoft-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/></a>
 
 ### Languages
-<p align="left">
-    <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" title="C#">
-    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3">
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5">
-    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java">
-    <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript">
-    <img align="center" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON" title="JSON">
-    <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin">
-    <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" title="Python">
-</p>
+[![Languages](https://skillicons.dev/icons?i=cs,css,html,java,javascript,kotlin,python&perline=10)](https://skillicons.dev)
 
 ### Frameworks
-<p align="left">
-    <img align="center" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" title=".NET">
-    <img align="center" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" title="Apache Kafka">
-    <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap">
-    <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker">
-    <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" title="Postman">
-    <img align="center" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" title="Spring Boot">
-</p>
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,kafka,gradle,bootstrap,docker,postman,spring&perline=10)](https://skillicons.dev)
 
 ### Cloud
-<p align="left">
-    <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS" title="Amazon AWS">
-    <img align="center" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" title="Azure DevOps">
-    <img align="center" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" title="Google Cloud">
-</p>
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp&perline=10)](https://skillicons.dev)
 
 ### Databases
-<p align="left">
-    <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" title="Microsoft SQL Server">
-    <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB">
-    <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL">
-    <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL">
-    <img align="center" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" title="RabbitMQ">
-</p>
-
-### IDE
-<p align="left">
-    <img align="center" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ     IDEA">
-    <img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" title="PyCharm">
-    <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" title="VS Code">
-</p>
-
-### Security
-<p align="left">
-    <img align="center" src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="SNYK" title="SNYK">
-</p>
-
-### Analytics
-<p align="left">
-    <img align="center" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics" title="Google Analytics">
-    <img align="center" src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" alt="Lighthouse" title="Lighthouse">
-    <img align="center" src="https://img.shields.io/badge/New Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic" title="New Relic">
-</p>
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres,rabbitmq&perline=10)](https://skillicons.dev)
 
 <hr>
 
@@ -82,3 +34,5 @@ I have a degree in `Internet Systems` from FIAP and I am studying `Software Engi
 </a>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="32" height="32" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="32" height="32" />
