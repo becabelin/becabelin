@@ -1,4 +1,4 @@
-![](https://github.com/becabelin/becabelin/assets/69727594/a2c93732-feeb-4f4f-8071-2cb5c7d4f991)
+![](https://github.com/becabelin/becabelin/assets/69727594/53357ec2-afff-4ddb-a3f8-2693da436764)
 
 # Hi, how are you?
 
